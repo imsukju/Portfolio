@@ -51,10 +51,10 @@ A brief description of the project, the problem it solves, and the technologies 
 
 ### Courses
 - 구미대학교 사이버 보안과 졸업
-- 한국 IT 교육원 수료  [교육과정 보기](./커리큘럼.md)  
+- 한국 IT 교육원 수료 
     ![교육사진](./resource/교육.png)
   
-
+##  [교육과정 보기](./커리큘럼.md)  
 --
 
 
