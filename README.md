@@ -44,12 +44,16 @@ Here are the technologies I've worked with:
 
 ### [Project 1 MySampleBackend](Link to project)
 A brief description of the project, the problem it solves, and the technologies used.  
-- **Technologies used**: Java, Spring Boot, MySQL, Docker, S3 bucket, Spring Security
+- **Technologies used**: Java, Spring Boot, MySQL, Docker, S3 bucket, Spring Security,Spring Web...
 - [Link to GitHub repository](https://github.com/imsukju/MySampleBackend)
   - React 기반 프론트엔드에 맞춘 백엔드 서비스 개발
   - 사용자 등록, 로그인, 게시글 작성, 댓글 작성 등의 기능 구현
   - **Spring Security**를 사용한 사용자 인증 및 권한 관리
 
+- **Technologies used**: Java, MySQL,HTML,SpringWeb...  
+  - [Link to GitHub repository](https://github.com/imsukju/CodingTest)  
+    - HTML 기반 간단한 게시판 서비스 개발    
+    - 사용자 등록, 로그인, 게시글 작성, 댓글 장성 등의 기능 구현  
 ---
 
 ## Certifications & Courses  
