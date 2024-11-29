@@ -53,6 +53,7 @@ A brief description of the project, the problem it solves, and the technologies 
 - 구미대학교 사이버 보안과 졸업
 - 한국 IT 교육원 수료
     [교육인증](./resource/교육.png)
+    [교육과정 보기](./커리큘럼.md)
 
 --
 
@@ -61,7 +62,7 @@ A brief description of the project, the problem it solves, and the technologies 
 
 Feel free to reach out to me through:
 
-- Email: [Your Email](mailto:tjrwn1234562@gmail.com)
+- Email: [tjrwn1234562@gmail.com](mailto:tjrwn1234562@gmail.com)
 - techBlog[티스토리 블로그](https://view790.tistory.com/category) {pw :hellosj489  }
 
 ---
