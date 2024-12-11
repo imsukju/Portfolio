@@ -28,12 +28,12 @@ Here are the technologies I've worked with:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-## 📚 **My StudyNote**
+## 📚 **My Dictionary**
 
-- **설명**: 다양한 **기술 주제**, **도구**, **프로그래밍 언어**에 대한 학습 내용을 체계적으로 기록하고 공유하기 위한 개인 저장소입니다.
+- **설명**: 다양한 **기술 주제**, **도구**, **프로그래밍 언어**에 대한 학습 내용을 정리해놓았습니다.
 - **주요 특징**:
   - **정리된 학습 노트**와 **코드 스니펫**으로 빠르게 참고 가능.
-  - **백엔드 개발**, **네트워크 기초** 학습했던 내용을 정리.
+  - **백엔드 개발**, **네트워크 기초** 학습했던 내용을 정리해놓고 필요할때 찾아보도록 정리했습니다.
 
 🔗 **[My StudyNote GitHub에서 보기](https://github.com/imsukju/MyStudyNote)**
 
